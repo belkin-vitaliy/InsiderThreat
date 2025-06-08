@@ -1,0 +1,13 @@
+resource_id,resource_type,access_count_last_month,importance,access_level
+0,database,679,1,1
+1,database,259,2,1
+2,service,906,3,3
+3,api,199,4,4
+4,file,880,1,1
+5,database,386,2,1
+6,database,432,4,4
+7,service,329,3,2
+8,service,776,3,2
+9,database,547,4,3
+10,jira,547,3,3
+11,serviceDesk,501,3,3
